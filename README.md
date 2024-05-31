@@ -1,7 +1,5 @@
 # Hi there, I'm Anish Rao Toorpu! 👋
 
-![Banner](git_image_@.webp)
-
 I'm currently pursuing my Master of Computer Science at North Carolina State University, with a keen interest in Neural Networks, Deep Learning, and Software Engineering. With a solid foundation in Artificial Intelligence from my undergraduate studies, I'm passionate about leveraging technology to solve complex problems and make a meaningful impact.
 
 ## 🛠 Technical Skills
