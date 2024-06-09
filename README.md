@@ -16,35 +16,37 @@ I'm currently pursuing my Master of Computer Science at North Carolina State Uni
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 
-
 ## 💼 Experience
-### BTEC Intern at North Carolina State University
-Spearheaded data analysis projects using Python, Jupyter Notebook, and RNNs.
+
+### Graduate Student Assistant at North Carolina State University
+- Conducted data analysis and developed a program website for professional development training.
+
+### Data Science Intern at North Carolina State University
+- Developed an anomaly detection system using Python, Jupyter Notebooks, and LSTM neural networks.
 
 ### Software Engineer Intern at Cognizant
-Led the development of loan management applications, enhancing operational efficiency by 30%.
+- Led the development of loan management applications and automated workflows using Pega's low-code platform.
 
 ### Data Science Intern at SkillVertex
-Focused on EDA and machine learning models, improving predictive model accuracy by 35%.
+- Conducted EDA and developed machine learning models, improving predictive model accuracy by 35%.
 
 ## 🎓 Academic Projects
-### WolfEvents Event Management System
-Developed using Ruby on Rails, enhancing user engagement by 25%.
 
-### Inventory Management System
-Implemented with Angular and Spring Boot, reducing inventory costs by 20%.
+### [WolfEvents Event Management System](https://github.com/Anish7-anish/WolfEvents-Event-Management-System)
+- Developed a comprehensive event management system using Ruby on Rails, enhancing user engagement by 25%.
 
-### BeSafe Women Safety Application
-Created with Flutter and Firebase, featuring real-time GPS tracking and emergency alerts.
+### [NCSU BTEC Water Treatment Facility Anomaly Detection System](https://github.com/Anish7-anish/BTEC-State-Detection)
+- Developed an advanced anomaly detection system using Python, LSTM, and GraphQL for monitoring water treatment facility data.
+
+### [Gene Based Cancer Classification](https://github.com/Anish7-anish/Gene-Based-Cancer-Classification)
+- Developed a genomic pan-cancer classification system using image-based deep learning with Inception-ResNet-v2, incorporating mutation map construction and Guided Grad-CAM visualization for enhanced model interpretability.
 
 ## 🏆 Achievements
-- Secured the 13th position in a Coding Competition with Code Chef.
-- Achieved 7th place in the Data Hack Hours Hackathon, highlighting my data analysis skills.
+- **Secured the 13th position** in a Coding Competition with Code Chef.
+- **Achieved 7th place** in the Data Hack Hours Hackathon, highlighting my data analysis skills.
 
 I'm always looking to collaborate on projects that are at the intersection of technology and social impact. Feel free to reach out if you're interested in working together or just want to connect!
 
 ## 📫 How to reach me
 - Email: atoorpu@ncsu.edu
-- LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/anish-rao-toorpu-a4463821a)
-
-
+- LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anish-rao-toorpu-a4463821a)
